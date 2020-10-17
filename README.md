@@ -1,2 +1,2 @@
 # Languages blog of cassiadev
-Love Languages, both for human and for programme.
+Love languages, both for human and for programme.
