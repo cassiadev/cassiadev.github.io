@@ -1,2 +1,2 @@
 # Languages blog of cassiadev
-Lovd Languages, both for human and for programme.
+Love Languages, both for human and for programme.
