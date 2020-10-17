@@ -1,5 +1,5 @@
-# Love languages, 
-# both for human and for programme.
+# Love Languages, both for Human and for Programme.
+
 
 
 ## Welcome to GitHub Pages
